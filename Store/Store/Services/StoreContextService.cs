@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Store.Models;
 
 namespace Store.Services
 {
@@ -9,5 +10,7 @@ namespace Store.Services
         
         
         }
+
+        public DbSet<Product> Products { get; set; }    
     }
 }
