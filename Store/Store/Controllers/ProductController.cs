@@ -16,5 +16,15 @@ namespace Store.Controllers
             var Products=storeContextService.Products.OrderByDescending(x=>x.Id).ToList();
             return View(Products);
         }
+
+
+        public IActionResult Create()
+        {
+
+
+
+            return View();  
+
+        }
     }
 }
