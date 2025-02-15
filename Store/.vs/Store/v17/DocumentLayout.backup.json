@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Store\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Store\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCIAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-15T17:06:02.293Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Store\\Models\\ProductDTO.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T17:00:42.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T17:00:42.122Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Store\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-14T12:53:55.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T12:53:55.394Z"
             },
             {
               "$type": "Document",
@@ -95,7 +93,7 @@
               "RelativeDocumentMoniker": "Store\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Store\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T12:51:10.989Z",
               "EditorCaption": ""
@@ -110,8 +108,7 @@
               "RelativeToolTip": "Store\\Models\\Product.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T11:30:48.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T11:30:48.505Z"
             }
           ]
         }
