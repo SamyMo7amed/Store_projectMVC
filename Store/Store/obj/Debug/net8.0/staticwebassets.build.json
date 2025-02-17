@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R5LKmCdzOJkq1BlTL8INH6GW+PNf9bsXstRLxxiu1ys=",
+  "Hash": "2jDGBA/gHnOT5awSybtJ2OA0EAJobHU2vizCJ91JWoA=",
   "Source": "Store",
   "BasePath": "_content/Store",
   "Mode": "Default",
@@ -122,12 +122,12 @@
       "OriginalItemSpec": "wwwroot\\images\\20250215213204955.jpg"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\wwwroot\\images\\20250215213322903.jpg",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\wwwroot\\images\\20250217203656117.png",
       "SourceId": "Store",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\wwwroot\\",
       "BasePath": "_content/Store",
-      "RelativePath": "images/20250215213322903#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/20250217203656117#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -136,11 +136,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bgeuwpdj58",
-      "Integrity": "q1irjgGFhtUFwrXh/rjjhRUe62Vl4k/qi/1lxMKe1ww=",
+      "Fingerprint": "ac3c3zzjje",
+      "Integrity": "6toSStYsT8dqT1WcG4zefttyiQX00EoI9ZYQRu6zrRM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\20250215213322903.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\20250217203656117.png"
     },
     {
       "Identity": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\wwwroot\\images\\action_camera.jpg",
@@ -1819,8 +1819,8 @@
       ]
     },
     {
-      "Route": "images/20250215213322903.bgeuwpdj58.jpg",
-      "AssetFile": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\wwwroot\\images\\20250215213322903.jpg",
+      "Route": "images/20250217203656117.ac3c3zzjje.png",
+      "AssetFile": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\wwwroot\\images\\20250217203656117.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1829,19 +1829,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29442"
+          "Value": "803212"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"q1irjgGFhtUFwrXh/rjjhRUe62Vl4k/qi/1lxMKe1ww=\""
+          "Value": "\"6toSStYsT8dqT1WcG4zefttyiQX00EoI9ZYQRu6zrRM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 19:33:22 GMT"
+          "Value": "Mon, 17 Feb 2025 18:36:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1851,21 +1851,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bgeuwpdj58"
+          "Value": "ac3c3zzjje"
         },
         {
           "Name": "label",
-          "Value": "images/20250215213322903.jpg"
+          "Value": "images/20250217203656117.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-q1irjgGFhtUFwrXh/rjjhRUe62Vl4k/qi/1lxMKe1ww="
+          "Value": "sha256-6toSStYsT8dqT1WcG4zefttyiQX00EoI9ZYQRu6zrRM="
         }
       ]
     },
     {
-      "Route": "images/20250215213322903.jpg",
-      "AssetFile": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\wwwroot\\images\\20250215213322903.jpg",
+      "Route": "images/20250217203656117.png",
+      "AssetFile": "C:\\Users\\LOQ\\Desktop\\Store_project\\Store\\Store\\wwwroot\\images\\20250217203656117.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1874,19 +1874,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29442"
+          "Value": "803212"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"q1irjgGFhtUFwrXh/rjjhRUe62Vl4k/qi/1lxMKe1ww=\""
+          "Value": "\"6toSStYsT8dqT1WcG4zefttyiQX00EoI9ZYQRu6zrRM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 19:33:22 GMT"
+          "Value": "Mon, 17 Feb 2025 18:36:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1896,7 +1896,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-q1irjgGFhtUFwrXh/rjjhRUe62Vl4k/qi/1lxMKe1ww="
+          "Value": "sha256-6toSStYsT8dqT1WcG4zefttyiQX00EoI9ZYQRu6zrRM="
         }
       ]
     },

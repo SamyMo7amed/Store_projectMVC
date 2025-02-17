@@ -1,7 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\20250215213204955.jpg
-wwwroot\images\20250215213322903.jpg
+wwwroot\images\20250217203656117.png
 wwwroot\images\action_camera.jpg
 wwwroot\images\gaming_chair.jpg
 wwwroot\images\headphones.jpg
